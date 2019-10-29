@@ -20,6 +20,13 @@ day.csv is the dataset which contains 15 independent variables
 * registered: count of registered bike users
 * count: total number of bikes rented. This is the dependent continuous variable
 
+## Steps followed
+1. Missing Value Analysis
+2. Outlier Analysis done using boxplots and imputing the outliers
+3. Performed Exploratory Data Analysis 
+3. Multicollinearity tackled using Pearson Correlation and analysis of Variance Inflation Factor
+4. Used ANOVA for categorical feature selection
+5. Model development
 ### Regression techniques applied
 * Decision Tree Regression
 * Random Forest Regression
