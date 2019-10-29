@@ -27,6 +27,7 @@ day.csv is the dataset which contains 15 independent variables
 3. Multicollinearity tackled using Pearson Correlation and analysis of Variance Inflation Factor
 4. Used ANOVA for categorical feature selection
 5. Model development
+6. Hyperparameter Tuning
 ### Regression techniques applied
 * Decision Tree Regression
 * Random Forest Regression
